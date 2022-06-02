@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "oBN4wBOyr6oG1XiEGdLHkr+rFKHKGaWQh0wIwnY1bKM=",
-  "Source": "ShopOnline.API",
-  "BasePath": "_content/ShopOnline.API",
+  "Hash": "qOXdHnjtVNWfUG9VCAehYU4GE8MDaJomwdxSE5hwbcs=",
+  "Source": "ShopOnline.Api",
+  "BasePath": "_content/ShopOnline.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
