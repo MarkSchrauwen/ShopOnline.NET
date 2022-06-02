@@ -1,0 +1,6 @@
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfo.cs
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.CoreCompileInputs.cache
+C:\C#-Projecten\ShopOnlineSolution\Schrauwen-Projects.ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.MvcApplicationPartsAssemblyInfo.cache
