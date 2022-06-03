@@ -813,6 +813,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\blazor.boot.j
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.development.json
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\bundle\ShopOnline.Web.styles.css
@@ -822,4 +823,3 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.We
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
-C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
