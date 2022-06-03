@@ -13,8 +13,8 @@ namespace ShopOnline.Api.Extensions
                     on product.CategoryId equals productCategory.Id
                     select new ProductDto
                     {
-                        Id = productCategory.Id,
-                        Name = productCategory.Name,
+                        Id = product.Id,
+                        Name = product.Name,
                         Description = product.Description,
                         ImageURL = product.ImageURL,
                         Price = product.Price,
@@ -22,6 +22,22 @@ namespace ShopOnline.Api.Extensions
                         CategoryId = product.CategoryId,
                         CategoryName = productCategory.Name,
                     }).ToList ();
+        }
+
+    public static ProductDto ConvertToDto(this Product product,
+        ProductCategory productCategory)
+        {
+            return new ProductDto
+            {
+                Id = product.Id,
+                Name = product.Name,
+                Description= product.Description,
+                ImageURL= product.ImageURL,
+                Price= product.Price,
+                Qty= product.Qty,
+                CategoryId= product.CategoryId,
+                CategoryName= productCategory.Name,
+            };
         }
     }
 }
