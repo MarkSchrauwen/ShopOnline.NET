@@ -823,3 +823,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.We
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\D1TGIHzv.gz

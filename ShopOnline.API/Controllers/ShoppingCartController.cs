@@ -22,7 +22,7 @@ namespace ShopOnline.Api.Controllers
 
         [HttpGet]
         [Route("{userId}/GetItems")]
-        public async Task<ActionResult<IEnumerable<CartItemDto>>> GetItems (int userId)
+        public async Task<ActionResult<IEnumerable<CartItemDto>>> GetItems(int userId)
         {
             try
             {
@@ -63,7 +63,7 @@ namespace ShopOnline.Api.Controllers
                 }
                 var product = await productRepository.GetItem(cartItem.ProductId);
 
-                if(product == null)
+                if (product == null)
                 {
                     return NotFound();
                 }
@@ -100,7 +100,7 @@ namespace ShopOnline.Api.Controllers
 
                 var newCartItemDto = newCartItem.ConvertToDto(product);
 
-                return CreatedAtAction(nameof(GetItem), new {id=newCartItemDto.Id}, newCartItemDto);
+                return CreatedAtAction(nameof(GetItem), new { id = newCartItemDto.Id }, newCartItemDto);
             }
             catch (Exception ex)
             {
@@ -133,6 +133,30 @@ namespace ShopOnline.Api.Controllers
             }
             catch (Exception ex)
             {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpPatch("{id:int}")]
+        public async Task<ActionResult<CartItemDto>> UpdateQty (int id, CartItemQtyUpdateDto cartItemQtyUpdateDto)
+        {
+            try
+            {
+                var cartItem = await this.shoppingCartRepository.UpdateQty(id, cartItemQtyUpdateDto);
+                if (cartItem == null)
+                {
+                    return NotFound();
+                }
+
+                var product = await productRepository.GetItem(cartItem.ProductId);
+
+                var cartItemDto = cartItem.ConvertToDto(product);
+
+                return Ok(cartItemDto);
+            }
+            catch (Exception ex)
+            {
+
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
         }
