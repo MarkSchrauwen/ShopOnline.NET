@@ -36,6 +36,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_fram
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.dll
@@ -269,6 +270,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_fram
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
@@ -426,6 +428,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.Ext
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.CSharp.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
@@ -630,6 +633,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\lxLp
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\4k7zka1h.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\N+mGc33E.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\AM7FoZy9.gz
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\D1TGIHzv.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\0a2rAEdV.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Axl8tPMp.gz
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\2me1+pa4.gz
@@ -814,6 +818,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebasse
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.development.json
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\ShoppingCart.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\bundle\ShopOnline.Web.styles.css
@@ -823,7 +828,3 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.We
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
-C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
-C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
-C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\D1TGIHzv.gz
