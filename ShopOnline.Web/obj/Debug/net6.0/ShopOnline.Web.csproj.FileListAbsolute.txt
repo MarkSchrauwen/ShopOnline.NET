@@ -829,3 +829,7 @@ C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOn
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
 C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\ProductCategoriesNavMenu.razor.rz.scp.css
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\C#-Projecten\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\gEcs0Rp4.gz
